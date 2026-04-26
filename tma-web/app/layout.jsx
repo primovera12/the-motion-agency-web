@@ -49,7 +49,6 @@ export const metadata = {
     description: "Strategy meets bold storytelling. GCC-built category leaders.",
     images: ["/assets/case-foodics-boundless.png"],
   },
-  icons: { icon: "/favicon.ico" },
   robots: { index: true, follow: true },
 };
 
